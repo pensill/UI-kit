@@ -1,0 +1,27 @@
+.row{
+  margin: 0px -18px;
+  
+  &:after{
+  clear: both;
+  display: table;
+  content: " ";
+  }
+}
+
+.generate-columns(@n, @i: 1) when (@i =< @n) { 
+  .col-@{i} {
+    box-sizing: border-box;
+    width: (@i * 100% / @n);
+    position: relative;
+    min-height: 1px;
+    float: left;
+    padding: 0px 18px;
+  }
+
+  .generate-columns(@n, (@i + 1));
+}
+.generate-columns(12);
+
+.clearfix{
+  clear:both;
+}

@@ -1,0 +1,111 @@
+.btn-big (){
+  min-width: 130px;
+  color: #ffffff;
+  font-size: @font-size - 1px;
+  line-height: 35px;
+  border: 0px;
+  border-radius: 5px;
+  position: relative;
+  margin: 10px 15px;
+  cursor:pointer;
+  white-space: nowrap;
+  
+  &:active{
+  box-shadow: none;
+  top:2.5px;
+  }
+}
+
+.btn-small(){
+  min-width: 100px;
+  color: #ffffff;
+  font-size: @font-size - 1px;
+  line-height: 26px;
+  border: 0px;
+  border-radius: @border_radius;
+  position: relative;
+  margin: 10px 15px;
+  cursor:pointer;
+  white-space: nowrap;
+  
+  &:active{
+  box-shadow: none;
+  top:2.5px;
+  }
+}
+   
+.btn-green(){
+  background-color: @button_color_green;
+  box-shadow: @button_box--shadow @button_color_green--shadow;
+  &:hover{
+    background-color: @button_color_green--hover;
+    box-shadow: @button_box--shadow @button_color_green--hover--shadow;
+  }
+  &:active{
+    background-color: @button_color_green;
+    box-shadow: none;
+  }
+}
+
+ .btn-gray(){
+  background-color: @button_color_gray;
+  box-shadow: @button_box--shadow @button_color_gray--shadow;
+  &:hover{
+    background-color: @button_color_gray--hover;
+    box-shadow: @button_box--shadow @button_color_gray--hover--shadow;
+  }
+  &:active{
+    background-color: @button_color_gray;
+    box-shadow: none;
+  }
+}
+
+.btn-red(){
+  background-color: @button_color_red;
+  box-shadow: @button_box--shadow @button_color_red--shadow;
+  &:hover{
+    background-color: @button_color_red--hover;
+    box-shadow: @button_box--shadow @button_color_red--hover--shadow;
+  }
+  &:active{
+    background-color: @button_color_red;
+    box-shadow: none;
+  }
+} 
+
+
+
+.image(){
+  width: 100%;
+  height: 258px;
+  overflow: hidden;
+  border-radius: @border_radius;
+  position: relative;
+}
+
+.white-container{
+  background-color: #fff;
+  padding: @padding-standart;
+  border-radius: @border_radius;
+  margin-bottom: 30px;
+}
+
+.radio{
+  & span{
+    margin-left: 10px;
+  }
+}
+.radio{
+  & span{
+    margin-left: 10px;
+  }
+}
+.checkbox{
+  & span{
+    margin-left: 10px;
+  }
+}
+.not-active(){
+    cursor: not-allowed;
+  color: #eaeaea;
+}

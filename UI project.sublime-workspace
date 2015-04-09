@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"img/"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"ch",
+				"chosen.css"
+			],
+			[
+				"j",
+				"js/"
+			],
+			[
+				"w",
+				"width	.width()"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"res",
+				"responsive"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"it",
+				"it/40x40"
+			],
+			[
+				"slid",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"da",
+				"dashboard"
+			],
+			[
+				"too",
+				"toggleClass〔function〕"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"clo",
+				"close"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"remov",
+				"removeClass〔function〕"
+			],
+			[
+				"chi",
+				"children〔function〕"
+			],
+			[
+				"pa",
+				"parent〔function〕"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"par",
+				"parents	.parents()"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"mous",
+				"mouseover〔function〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"toggl",
+				"toggle__status"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"to",
+				"toggle__on"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/epixxx/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/epixxx/package.json",
+			"settings":
+			{
+				"buffer_size": 116,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/img",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/less"
+	],
+	"file_history":
+	[
+		"/C/epixxx/distr/package.json",
+		"/C/epixxx/.bowerrc",
+		"/C/epixxx/bower.json",
+		"/C/epixxx/app/css/buttons.css",
+		"/C/epixxx/app/js/plugins.js",
+		"/C/epixxx/app/js/main.js",
+		"/C/epixxx/app/css/main.css",
+		"/C/epixxx/app/index.html",
+		"/C/epixxx/package.json",
+		"/C/epixxx/index.html",
+		"/D/1 EPIXX/!!/css/style.css",
+		"/D/1 EPIXX/!!/css/superfish.css",
+		"/D/1 EPIXX/!!/css/style-custom.css",
+		"/D/1 EPIXX/!!/index.html",
+		"/D/1 EPIXX/!!/css/font-awesome.css",
+		"/D/1 EPIXX/!!/css/stule-custom.css",
+		"/D/Фриланс/!Портфолио/Clicktex/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/less/variables.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/less/mixin.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js/checkbox.js",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/less/style.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/index.html",
+		"/Z/home/localhost/www/wp-content/themes/sparkling/header.php",
+		"/Z/home/localhost/www/wp-content/themes/sparkling/page-fullwidth.php",
+		"/Z/home/localhost/www/wp-content/themes/sparkling/style.css",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js/jq_tabs.js",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/css/style.css",
+		"/Z/home/localhost/www/wp-config-sample.php",
+		"/Z/home/localhost/www/index.php",
+		"/D/Фриланс/Рабочие проекты/Моха/Мультипортовые платы RS-232/3 Мультипортовые платы для шины PCI Express/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/Мультипортовые платы RS-232/2 Мультипортовые платы для шины PCI/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/Мультипортовые платы RS-232/1 Мультипортовые платы для шины ISA/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/13) Аксессуары для коммутаторов/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/12) Оптоволоконные модули/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/11) DSL-удлинители Ethernet/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/10) SFP-модули для коммутаторов/index.html",
+		"/D/Фриланс/Gorbunov 1 stage/css/style.css",
+		"/D/Фриланс/Gorbunov 1 stage/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/less/components/grid.less",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/8) Промышленные Ethernet-конвертеры/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/7) Коммутаторы с защитой от вибрации, от попадания пыли и влаги/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/6) Коммутаторы с функцией Power Over Ethernet (PoE)/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/5) Модульные коммутаторы Industrial Ethernet на DIN-рейку/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/4) Коммутаторы Industrial Ethernet для стойки 19 - начал выкладывать/index.html",
+		"/D/Фриланс/!/js/checkbox.js",
+		"/D/Фриланс/!/css/style.css",
+		"/D/Фриланс/!/index.html",
+		"/D/Фриланс/!/css/chosen.css",
+		"/D/Фриланс/!/js/chosen.jquery.js",
+		"/D/1 EPIXX/!Продвинутая верстка/7 SVG/Layer 1.svg",
+		"/D/1 EPIXX/!Продвинутая верстка/7 SVG/Twitter_Bird.svg",
+		"/D/Фриланс/Закончил/Стас/css/style.css",
+		"/D/Фриланс/Закончил/Стас/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/9) Оборудование беспроводного Ethernet/index.html",
+		"/D/Фриланс/!/js/jq_tabs.js",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Шалоны для вордпресса/Код/шаблон - номер.html",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Готовые сайты/!jahonty-tarusa.ru/Код/footer.php",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Готовые сайты/!jahonty-tarusa.ru/Код/header.php",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Готовые сайты/!jahonty-tarusa.ru/Код/template-homepage-5.php",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Шалоны для вордпресса/Код/шаблон - страница проживание.html",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Готовые сайты/!jahonty-tarusa.ru/ind.html",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/!/css/fonts.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/!/css/mixins.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/!/index-2.html",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/!/index-seo.html",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/!/css/main.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/!/css/main.css",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/!/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/4 - Dice/css/main.css",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/4 - Dice/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/4 - Dice/css/main.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/4 - Dice/css/mixins.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/3 - Calendar/css/main.css",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/3 - Calendar/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/3 - Calendar/css/main.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/3 - Calendar/css/mixins.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/1 - Layout/css/mixins.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/1 - Layout/css/main.css",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/1 - Layout/css/main.scss",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/1 - Layout/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/6 FLEXBOX/1 - Layout/css/mixins.css",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/Шаблон - копия/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/4) Коммутаторы Industrial Ethernet для стойки 19/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/css/chosen.css",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js/Проба/вторая роба/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/img/sprite.png",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js/Проба/chosen/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/3) Промышленные маршрутизаторы/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/Шаблон/index.html",
+		"/D/Фриланс/Рабочие проекты/Моха/ Промышленный Ethernet/3) Промышленные маршрутизаторы/index",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Готовые сайты/!avantel-klab-istra.ru/Код/template-homepage-5.php",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js/Проба/chosen.css",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js/Проба/index.html",
+		"/D/Фриланс/chosen/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js/chosen/index.html",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Готовые сайты/!avantel-klab-istra.ru/Код/creamred.css",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Готовые сайты/!avantel-klab-istra.ru/Код/footer.php",
+		"/D/Фриланс/Рабочие проекты/Гостиницы/Готовые сайты/!avantel-klab-istra.ru/Код/style.css",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/1 проект/less/mixin.less",
+		"/D/1 EPIXX/!Продвинутая верстка/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/3 JQuery/Типовое задание/js/script.js",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/1 проект/less/variable.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/1 проект/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/1 проект/less/components/forms.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/js/slider.js",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/less/layout.less",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/less/responsive.less",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/less/mixin.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/2 проект/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/2 проект/less/style.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/1 проект/less/style.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/1 проект/less/components/image.less",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/css/style.css",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/less/variables.less",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/less/style.less",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/js/main.js",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/less/animations.less",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/index.html",
+		"/D/1 EPIXX/!Продвинутая верстка/4 help day/Верстка на учебе/css/style",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/1 проект/less/normalize.less",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Проект/less/normalize.less",
+		"/D/1 EPIXX/!Продвинутая верстка/3 JQuery/Типовое задание/css/style.css",
+		"/D/1 EPIXX/!Продвинутая верстка/3 JQuery/Типовое задание/index.html",
+		"/D/Книги/ОСНОВА/Дэвид МакФарланд/Примеры/глава06/06_02.html",
+		"/D/Книги/ОСНОВА/Дэвид МакФарланд/Примеры/глава06/06_01.html",
+		"/D/Книги/ОСНОВА/Дэвид МакФарланд/Примеры/глава05/05_02.html",
+		"/D/Книги/ОСНОВА/Дэвид МакФарланд/Примеры/глава05/05_01.html",
+		"/D/1 EPIXX/!Продвинутая верстка/2 Препроцессоры Less/Чужой проект/1 проект/css/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content-section-1",
+			".gdlr-navigation-wrapper",
+			".sf-menu",
+			"gdlr-navigation-wrapper",
+			"mast",
+			"entry-header",
+			"form-group__text",
+			".image",
+			"chosen-select",
+			"message__container",
+			"tabs",
+			"sprite",
+			"sprite_1",
+			"element-checkbox",
+			"checkbox",
+			"div b",
+			"placeh",
+			"color",
+			"bfbfbf",
+			"resul",
+			"widt",
+			"wid",
+			"66",
+			"spr",
+			"tabs",
+			"tab",
+			"забро",
+			"img",
+			"content__mail",
+			"fonts",
+			"sidebar-tit",
+			"sidebar-ex",
+			"img/content/userpic.png",
+			"img",
+			"PT-G7509-F-48",
+			"Серия PT-7528",
+			"placeholder",
+			"chosen-search",
+			"active-result",
+			".chosen-results li",
+			".chosen-results ",
+			"chosen-wh",
+			"797979",
+			".chosen-disabled",
+			"chosen-drop",
+			"chosen-container-single",
+			".no-results",
+			"no-results",
+			".chosen-choices",
+			"chosen-results",
+			"chosen-drop",
+			".chosen-container",
+			"chosen-drop",
+			"chosen-results",
+			"chosen-drop",
+			".search-field",
+			"default",
+			"search-field",
+			".chosen-choices",
+			"chosen-container-multi",
+			"@color_black",
+			"img",
+			"image-cycle",
+			"ch-info",
+			".select-close",
+			".select-close+",
+			"chosen-select",
+			"clearfix",
+			"side-by-side",
+			"Standard Select",
+			"font",
+			"font-fa",
+			"borde",
+			".ch-item",
+			"border",
+			"font-size: 13px",
+			".white-container",
+			"form-group",
+			"Авантель",
+			"озер",
+			"Двухкомнатный",
+			"select",
+			"chzn-choices",
+			"Multiple Select",
+			"img_resposive",
+			"image-cycle",
+			"green__hov",
+			"example__form",
+			"flip-container__flipper",
+			"e86060",
+			".input-border",
+			"/img/sprite.jpg",
+			"cff3aa",
+			"sprite",
+			"example",
+			"example__form",
+			"button__on",
+			"desription",
+			"login form",
+			"toggle-on",
+			"toggle__on",
+			"озеро",
+			"отра",
+			"40a5c3",
+			"bf9958",
+			"bf99583a2d2f",
+			"bf9958",
+			"img-small",
+			"button_color_green__hover_shadow",
+			"example",
+			"product_sku",
+			"<?php echo $this->product->product_sku; ?>]",
+			"product->product_sku",
+			"<?php echo $this->product->product_sku; ?>",
+			"sku",
+			"Product SKU",
+			"ggggg",
+			"product_sku",
+			"ku",
+			"product_sku",
+			"div",
+			"col",
+			"1",
+			"col",
+			"<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>\n			<div class=\"col-1\">1</div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/epixxx/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/epixxx/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.593453919035,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.figlet_preview":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "UI project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
